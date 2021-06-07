@@ -1,2 +1,3 @@
-"# juego_TIMBIRICHE_nxn" 
-"# juego_TIMBIRICHE_nxn" 
+************  Juego de 8 reinas por logoca proposiciona **********
+
+SWI PROLOG
